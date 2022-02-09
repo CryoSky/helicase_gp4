@@ -1,0 +1,16 @@
+[Target]
+query
+
+[Memories]
+6n7n_merged_new_new_A.gro 1 1 286 10
+6n7n_merged_new_new_B.gro 287 1 286 10
+6n7n_merged_new_new_C.gro 573 1 286 10
+6n7n_merged_new_new_D.gro 859 1 286 10
+6n7n_merged_new_new_E.gro 1145 1 286 10
+6n7n_merged_new_new_F.gro 1431 1 286 10
+6n7t_merged_new_new_A.gro 1 1 286 10
+6n7t_merged_new_new_B.gro 287 1 286 10
+6n7t_merged_new_new_C.gro 573 1 286 10
+6n7t_merged_new_new_D.gro 859 1 286 10
+6n7t_merged_new_new_E.gro 1145 1 286 10
+6n7t_merged_new_new_F.gro 1431 1 286 10

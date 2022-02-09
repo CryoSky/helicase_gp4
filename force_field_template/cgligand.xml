@@ -1,0 +1,42 @@
+<ForceField>
+    <AtomTypes>
+        <!-- ATP particles -->
+        <!-- <Type name="P" class="Phosphate" element="P" mass="94.9696"/> -->
+        <Type name="S oxy" class="Sugar" element="H" mass="99.1104"/>
+        <Type name="MG" class="Ion" element="MG" mass="24.305"/>
+        <!-- <Type name="A base" class="Base" element="N" mass="134.1220"/> -->
+    </AtomTypes>
+    <Residues>
+        <Residue name="ATP">
+            <Atom name="PA" type="P"/>
+            <Atom name="PB" type="P"/>
+            <Atom name="PG" type="P"/>
+            <Atom name="S" type="S oxy"/>
+            <Atom name="A" type="A base"/>
+        </Residue>
+        <Residue name="ADP">
+            <Atom name="PA" type="P"/>
+            <Atom name="PB" type="P"/>
+            <Atom name="S" type="S oxy"/>
+            <Atom name="A" type="A base"/>
+        </Residue>
+        <Residue name="MG">
+            <Atom name="MG" type="MG"/>
+        </Residue>
+        <Residue name="ATM">
+            <Atom name="PA" type="P"/>
+            <Atom name="PB" type="P"/>
+            <Atom name="PG" type="P"/>
+            <Atom name="S" type="S oxy"/>
+            <Atom name="MG" type="MG"/>
+            <Atom name="A" type="A base"/>
+        </Residue>
+        <Residue name="ADM">
+            <Atom name="PA" type="P"/>
+            <Atom name="PB" type="P"/>
+            <Atom name="S" type="S oxy"/>
+            <Atom name="MG" type="MG"/>
+            <Atom name="A" type="A base"/>
+        </Residue>
+    </Residues>
+</ForceField>
